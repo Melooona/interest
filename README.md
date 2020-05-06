@@ -8,9 +8,9 @@
   install_github("Melooona/interest") 
   library(Interest)
   
-  # 제약조건 :  dplyr, lubridate 패키지 필요
-  # 날짜 포맷 : Date.
-  # UTF-8 encoding
+  제약조건 :  dplyr, lubridate 패키지 필요
+  날짜 포맷 : Date.
+  UTF-8 encoding
 
 
 2. 사용방법
