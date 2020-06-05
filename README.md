@@ -1,7 +1,8 @@
-# Interest (update : 2020-05-06)
+# Interest (update : 2020-06-05) (R버전)
 
 
-1. 설치방법 (copy and paste)
+1. 설치방법 (copy and paste)  
+ R 4.0.0 버전 에러 -> 3.6.0 사용 시 정상작동합니다.  
 
 install.packages("devtools") #github package 설치 시 필요  
 library(devtools)
